@@ -24,5 +24,5 @@
 
 ## 📫 How to reach me:
 
-[<img src="https://github.com/DevendraGhedia/DevendraGhedia/blob/main/linkedIn.png" width = "3.5%"/>](https://www.linkedin.com/in/devendra-ghedia-18a553285) &nbsp; [<img src = "https://github.com/DevendraGhedia/DevendraGhedia/blob/main/twitter.png" width = "3.5%"/>](https://twitter.com/Devendra_Ghedia)  &nbsp; [<img src = "https://github.com/DevendraGhedia/DevendraGhedia/blob/main/instagram-new.png" width = "3.5%" />](https://www.instagram.com/bhindislob) &nbsp; [<img src="https://github.com/DevendraGhedia/DevendraGhedia/blob/main/telegram.png" width = "3.5%"/>](t.me/CholeKulche720)
+[<img src="https://github.com/DevendraGhedia/DevendraGhedia/blob/main/linkedIn.png" width = "3.5%"/>](https://www.linkedin.com/in/devendra-ghedia-18a553285) &nbsp; [<img src = "https://github.com/DevendraGhedia/DevendraGhedia/blob/main/twitter.png" width = "3.5%"/>](https://twitter.com/Devendra_Ghedia)  &nbsp; [<img src = "https://github.com/DevendraGhedia/DevendraGhedia/blob/main/instagram-new.png" width = "3.5%" />](https://www.instagram.com/bhindislob) &nbsp; [<img src="https://github.com/DevendraGhedia/DevendraGhedia/blob/main/telegram.png" width = "3.5%"/>](https://t.me/CholeKulche720)
 
