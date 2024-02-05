@@ -1,9 +1,9 @@
 <img src = "https://github.com/DevendraGhedia/DevendraGhedia/blob/main/work_balance.gif" alt = "right img" align = "right" width = "220" height = "auto"/>
 
 - 👋 Hi, I’m Devendra Ghedia
-- 🔭 Currently an intern at Praxware Technologies in Ahmedabad, Gujarat
-- 🌱 I’m currently learning Android, Web Development, WordPress and Java
-- ⚡ Grinding Valorant is one of my hobbies
+- 🔭 Currently an intern at Cybercom Creation in Ahmedabad, Gujarat
+- 🌱 I’m currently learning Web Development, PHP, MVC and eCommerce Website
+- ⚡ Grinding Valorant and Fortnite is one of my hobbies
 - 🎧 Travis Scott, The Weekend and Shankar Mahadevan are the goats
   
   
